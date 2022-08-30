@@ -1,4 +1,4 @@
-16-bit Intel 8088 chip
+16-bit Intel 8088 chip by Charles Bukowski
 
 with an Apple Macintosh
 you can't run Radio Shack programs
